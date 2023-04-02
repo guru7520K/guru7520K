@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @guru7520K
-- 👀 I’m interested in ... ....
-- 🌱 I’m currently learning ... FULL STACK development
-- 💞️ I’m looking to collaborate on ... what ever coding project you can offer
+- 👋 Hi, I’m Guru Prakash
 
 
 <!---
